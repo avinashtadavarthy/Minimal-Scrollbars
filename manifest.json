@@ -2,11 +2,11 @@
   "name": "Minimal Scrollbars",
   "version": "0.1",
   "manifest_version": 2,
-  "description": "To make your scrollbars look standard & minimal",
+  "description": "Make your scrollbars look standard & minimal",
   "icons": {
-    "16": "icon16.png",
-    "48": "icon48.png",
-    "128": "icon128.png"
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
   },
   "content_scripts": [
     {
