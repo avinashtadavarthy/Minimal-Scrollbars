@@ -1,7 +1,7 @@
 ![Minimal Scrollbars Icon](/icons/icon128.png)
 
 # Minimal-Scrollbars
-Minimal Scrollbars are for users who focus on keeping a clean and uncluttered workspace.
+Minimal Scrollbars is a browser extension developed for Chromium-based browsers. It is for users who focus on keeping a clean and uncluttered workspace while surfing on the internet.
 
 Turn Chrome's and Edge's traditional scrollbars into ones that are designed minimally, helping you keep your browsing experience aesthetically pleasing and clean.
 
@@ -12,6 +12,12 @@ Tip: For users who love Notion (www.notion.so) but hate the default scrollbars t
 - The color of the scrollbar is soft grey and is optimized for both light and dark modes. 
 - The track on which the bar runs has been made transparent.
 - Scrollbar color changes on hover interaction
+
+## Images
+Go from this
+![Old bars](/images/old.png)
+to this
+![New bars](/images/redesigned.png)
 
 ## Future Updates
 - Auto-hide the scrollbar when not in use.
