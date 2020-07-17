@@ -1,3 +1,5 @@
+![Minimal Scrollbars Icon](/icons/icon128.png)
+
 # Minimal-Scrollbars
 Minimal Scrollbars are for users who focus on keeping a clean and uncluttered workspace.
 
